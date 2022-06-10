@@ -5,7 +5,7 @@
 This is The Javascript triangle arbitrage bot version 2. 
 It can be configured to run on Ethereum , BNB or Polygon Networks by changing the settings in the config.js file.
 
-<img src="https://raw.githubusercontent.com/coolnerdcoder/javascript-triangle-arbitrage-bot-v2/main/Screenshot 06-10-2022 07.11.47.png" >
+<img src="https://raw.githubusercontent.com/coolnerdcoder/javascript-triangle-arbitrage-bot-v2/main/Screenshot 06-10-2022 07.11.47config.png" >
 
  <font size=5 >You can Download the bot here</font>
  
