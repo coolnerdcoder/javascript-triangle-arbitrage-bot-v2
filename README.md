@@ -9,7 +9,7 @@ This Bot won 4th place in the annual codeoff
 
 <img src="https://raw.githubusercontent.com/coolnerdcoder/javascript-triangle-arbitrage-bot-v2/main/iwon.png" >
 
-here a 29 days test of running it 24/7
+here's a 29 days test of running it 24/7
 
 <img src="https://raw.githubusercontent.com/coolnerdcoder/javascript-triangle-arbitrage-bot-v2/main/29days.png" >
 
